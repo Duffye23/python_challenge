@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------------------
+Total Number of months in the dataset: 86
+The net total amount of Profit/Losses is : $22564198
+The Average change of month to month 'Profit/Losses: $-8311.11
+The greatest INCREASE in the 'Profit/Losses' column is: Aug-16: ($1862002)
+The greatest DECREASE in the 'Profit/Losses' column is: Feb-14: ($-1825558)
